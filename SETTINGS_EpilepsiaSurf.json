@@ -1,0 +1,8 @@
+{
+  "dataset": "EpilepsiaSurf",
+  "stftdir": "/mnt/data1",
+  "datadir": "/mnt/data4/European_Epilepsy_Datasets/data/surf30",
+  "cachedir": "/mnt/data6_2T/tempdata/BayesPred-EpilepsiaSurf", 
+  "ckptdir": "/mnt/data6_2T/tempdata/BayesPred-EpilepsiaSurf/Bayes-fusion", 
+  "resultdir": "results-SNN-EpilepsiaSurf"
+}
